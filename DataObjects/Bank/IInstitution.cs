@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DataObjects.Bank
 {
-    interface IInstitution
+    public interface IInstitution
     {
         String Id { get; set; }
         String Name { get; set; }

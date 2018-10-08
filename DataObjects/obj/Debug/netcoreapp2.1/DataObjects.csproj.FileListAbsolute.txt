@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Bank\DataObjects\obj\Debug\netcoreapp2.1\DataObjects.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Bank\DataObjects\obj\Debug\netcoreapp2.1\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bank\DataObjects\obj\Debug\netcoreapp2.1\DataObjects.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Bank\DataObjects\obj\Debug\netcoreapp2.1\DataObjects.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Bank\DataObjects\bin\Debug\netcoreapp2.1\DataObjects.deps.json
+C:\Users\Admin\source\repos\Bank\DataObjects\bin\Debug\netcoreapp2.1\DataObjects.dll
+C:\Users\Admin\source\repos\Bank\DataObjects\bin\Debug\netcoreapp2.1\DataObjects.pdb
+C:\Users\Admin\source\repos\Bank\DataObjects\obj\Debug\netcoreapp2.1\DataObjects.dll
+C:\Users\Admin\source\repos\Bank\DataObjects\obj\Debug\netcoreapp2.1\DataObjects.pdb

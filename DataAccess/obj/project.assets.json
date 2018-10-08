@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "DataObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/DataObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataObjects.dll": {}
+        }
       }
     }
   },
@@ -673,10 +683,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "DataObjects/1.0.0": {
+      "type": "project",
+      "path": "../DataObjects/DataObjects.csproj",
+      "msbuildProject": "../DataObjects/DataObjects.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "DataObjects >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -709,7 +725,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Admin\\source\\repos\\Bank\\DataObjects\\DataObjects.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Bank\\DataObjects\\DataObjects.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

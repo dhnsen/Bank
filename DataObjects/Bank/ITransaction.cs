@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DataObjects.Bank
 {
-    interface ITransaction
+    public interface ITransaction
     {
         String Id { get; set; }
         Decimal Amount { get; set; }

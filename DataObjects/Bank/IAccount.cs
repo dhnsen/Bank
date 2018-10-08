@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DataObjects.Bank
 {
-    interface IAccount
+    public interface IAccount
     {
         String Id { get; set; }
         String Name { get; set; }
