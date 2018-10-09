@@ -33,3 +33,7 @@ C:\Users\Admin\source\repos\Bank\PersonalBankingWebInterface\obj\Debug\netcoreap
 C:\Users\Admin\source\repos\Bank\PersonalBankingWebInterface\obj\Debug\netcoreapp2.1\PersonalBankingWebInterface.dll
 C:\Users\Admin\source\repos\Bank\PersonalBankingWebInterface\obj\Debug\netcoreapp2.1\PersonalBankingWebInterface.pdb
 C:\Users\Admin\source\repos\Bank\PersonalBankingWebInterface\obj\Debug\netcoreapp2.1\PersonalBankingWebInterface.csproj.CopyComplete
+C:\Users\Admin\source\repos\Bank\PersonalBankingWebInterface\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Admin\source\repos\Bank\PersonalBankingWebInterface\bin\Debug\netcoreapp2.1\DataObjects.dll
+C:\Users\Admin\source\repos\Bank\PersonalBankingWebInterface\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Admin\source\repos\Bank\PersonalBankingWebInterface\bin\Debug\netcoreapp2.1\DataObjects.pdb

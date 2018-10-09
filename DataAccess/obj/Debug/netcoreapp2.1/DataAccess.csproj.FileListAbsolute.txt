@@ -7,3 +7,6 @@ C:\Users\Admin\source\repos\Bank\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.A
 C:\Users\Admin\source\repos\Bank\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
 C:\Users\Admin\source\repos\Bank\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
 C:\Users\Admin\source\repos\Bank\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Admin\source\repos\Bank\DataAccess\bin\Debug\netcoreapp2.1\DataObjects.dll
+C:\Users\Admin\source\repos\Bank\DataAccess\bin\Debug\netcoreapp2.1\DataObjects.pdb
+C:\Users\Admin\source\repos\Bank\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete

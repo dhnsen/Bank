@@ -7,9 +7,9 @@ namespace DataAccess.Bank
 {
     public class TransactionGenericMockDAO
     {
-        public IEnumerable<TransactionGeneric> GetTransactionGenericsByDate(DateTime startDateWillBeIgnored, DateTime endDateWillBeIgnored)
+        public IEnumerable<ITransaction> GetTransactionGenericsByDate(DateTime startDateWillBeIgnored, DateTime endDateWillBeIgnored)
         {
-            List<TransactionGeneric> Transactions = new List<TransactionGeneric>{
+            List<ITransaction> Transactions = new List<ITransaction>{
                 { new TransactionGeneric{Id="-8d2b-4859-8c1e-502009f30052", Amount=95.47m, Date="2018-07-30 22:15:59",Category="Music", Description="Suspendisse potenti", Status="true"  } },
                 { new TransactionGeneric{Id="9dedf6b3 - bbac - 4781 - 8480 - 1746a5b36397", Amount=52.7m, Date="2018 - 04 - 10 07:56:31",Category="Industrial", Description="Quisque id justo sit amet sapien dignissim vestibulum", Status="true" } },
                 { new TransactionGeneric{Id="6d42dc39 - 3487 - 4431 - 9b7d - e2c26bf7189e", Amount=67.25m, Date="2018 - 09 - 15 13:58:53",Category="Health", Description="Proin interdum mauris non ligula pellentesque ultrices", Status="false" } },
