@@ -1,13 +1,11 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using DataObjects.Bank;
+using System.Text;
 
-
-namespace PersonalBankingWebInterface.Models
+namespace DataObjects.Bank
 {
-    public class TransactionCategoryChartViewModel : ITransaction
+    public class PlainTransaction : ITransaction, IEnumerable
     {
 		String ITransaction.Id { get; set; }
 		Decimal ITransaction.Amount { get; set; }
@@ -15,5 +13,10 @@ namespace PersonalBankingWebInterface.Models
 		String ITransaction.Category { get; set; }
 		String ITransaction.Description { get; set; }
 		String ITransaction.Status { get; set; }
+
+		public IEnumerator GetEnumerator()
+		{
+			throw new NotImplementedException();
+		}
 	}
 }
