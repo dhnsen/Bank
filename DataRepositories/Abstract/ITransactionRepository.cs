@@ -1,10 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using DataObjects;
+using DataObjects.Abstract;
 
-namespace DataRepositories
+namespace DataRepositories.Abstract
 {
-    class ITransactionRepository
+    public interface ITransactionRepository
     {
+        IEnumerable<TransactionAbstract> GetTransactionsByDate(DateTime startDate, DateTime endDate);
+
     }
 }
